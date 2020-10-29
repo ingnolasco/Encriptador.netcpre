@@ -14,7 +14,7 @@ namespace EncriptadorPalabras
 
             Console.WriteLine(resul);
 
-            var palabra = encriptador.Descifrar("LAbIbg+mf7zLz9itkdVDmj7z40o87vXJ+w5ugSfsuX4");
+            var palabra = encriptador.Descifrar(resul);
             Console.WriteLine(palabra);
 
 
