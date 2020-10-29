@@ -1,0 +1,11 @@
+E:\RepositorioIngNolasco\Encriptador.netcpre\EncriptadorPalabras\EncriptadorPalabras\bin\Debug\netcoreapp2.2\EncriptadorPalabras.deps.json
+E:\RepositorioIngNolasco\Encriptador.netcpre\EncriptadorPalabras\EncriptadorPalabras\bin\Debug\netcoreapp2.2\EncriptadorPalabras.runtimeconfig.json
+E:\RepositorioIngNolasco\Encriptador.netcpre\EncriptadorPalabras\EncriptadorPalabras\bin\Debug\netcoreapp2.2\EncriptadorPalabras.runtimeconfig.dev.json
+E:\RepositorioIngNolasco\Encriptador.netcpre\EncriptadorPalabras\EncriptadorPalabras\bin\Debug\netcoreapp2.2\EncriptadorPalabras.dll
+E:\RepositorioIngNolasco\Encriptador.netcpre\EncriptadorPalabras\EncriptadorPalabras\bin\Debug\netcoreapp2.2\EncriptadorPalabras.pdb
+E:\RepositorioIngNolasco\Encriptador.netcpre\EncriptadorPalabras\EncriptadorPalabras\obj\Debug\netcoreapp2.2\EncriptadorPalabras.csprojAssemblyReference.cache
+E:\RepositorioIngNolasco\Encriptador.netcpre\EncriptadorPalabras\EncriptadorPalabras\obj\Debug\netcoreapp2.2\EncriptadorPalabras.csproj.CoreCompileInputs.cache
+E:\RepositorioIngNolasco\Encriptador.netcpre\EncriptadorPalabras\EncriptadorPalabras\obj\Debug\netcoreapp2.2\EncriptadorPalabras.AssemblyInfoInputs.cache
+E:\RepositorioIngNolasco\Encriptador.netcpre\EncriptadorPalabras\EncriptadorPalabras\obj\Debug\netcoreapp2.2\EncriptadorPalabras.AssemblyInfo.cs
+E:\RepositorioIngNolasco\Encriptador.netcpre\EncriptadorPalabras\EncriptadorPalabras\obj\Debug\netcoreapp2.2\EncriptadorPalabras.dll
+E:\RepositorioIngNolasco\Encriptador.netcpre\EncriptadorPalabras\EncriptadorPalabras\obj\Debug\netcoreapp2.2\EncriptadorPalabras.pdb
